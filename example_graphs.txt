@@ -1,0 +1,64 @@
+4 -- 6 [label=1];
+4 -- 5 [label=2];
+2 -- 7 [label=3];
+0 -- 6 [label=3];
+2 -- 4 [label=4];
+0 -- 1 [label=5];
+2 -- 6 [label=5];
+1 -- 5 [label=6];
+5 -- 6 [label=6];
+1 -- 7 [label=7];
+1 -- 4 [label=8];
+3 -- 6 [label=8];
+0 -- 3 [label=9];
+1 -- 2 [label=9];
+2 -- 3 [label=9];
+6 -- 7 [label=9];
+
+
+a -- b [label=4];
+a -- f [label=2];
+a -- e [label=1];
+b -- e [label=2];
+b -- c [label=2];
+c -- d [label=8];
+d -- e [label=3];
+d -- f [label=6];
+f -- e [label=7];
+
+a -- b [label=3];
+a -- e [label=1];
+b -- e [label=4];
+b -- c [label=5];
+c -- d [label=2];
+c -- e [label=6];
+d -- e [label=7];
+
+A -- B [label=2];
+A -- D [label=3];
+A -- C [label=3];
+B -- C [label=4];
+B -- E [label=3];
+C -- D [label=5];
+C -- E [label=1];
+D -- F [label=7];
+F -- E [label=8];
+F -- G [label=9];
+
+a -- b [label=4];
+a -- f [label=2];
+b -- c[label=6];
+b -- f [label=5];
+c -- f [label=1];
+c -- d [label=3];
+d -- e [label=2];
+e -- f [label=4];
+
+1--2[label=3];
+1--3[label=8];
+1--4[label=4];
+1--5[label=5];
+2--3[label=5];
+4--5[label=4];
+4--6[label=9];
+5--6[label=8];
